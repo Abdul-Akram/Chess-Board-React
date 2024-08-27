@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abdul-Akram/Chess-Board-React.git/static/css/main.0cc8e07b.css",
-    "main.js": "/Abdul-Akram/Chess-Board-React.git/static/js/main.dd224846.js",
-    "static/js/453.aea98659.chunk.js": "/Abdul-Akram/Chess-Board-React.git/static/js/453.aea98659.chunk.js",
-    "index.html": "/Abdul-Akram/Chess-Board-React.git/index.html",
-    "main.0cc8e07b.css.map": "/Abdul-Akram/Chess-Board-React.git/static/css/main.0cc8e07b.css.map",
-    "main.dd224846.js.map": "/Abdul-Akram/Chess-Board-React.git/static/js/main.dd224846.js.map",
-    "453.aea98659.chunk.js.map": "/Abdul-Akram/Chess-Board-React.git/static/js/453.aea98659.chunk.js.map"
+    "main.css": "/Chess-Board-React/static/css/main.0cc8e07b.css",
+    "main.js": "/Chess-Board-React/static/js/main.f0a62c24.js",
+    "static/js/453.aea98659.chunk.js": "/Chess-Board-React/static/js/453.aea98659.chunk.js",
+    "index.html": "/Chess-Board-React/index.html",
+    "main.0cc8e07b.css.map": "/Chess-Board-React/static/css/main.0cc8e07b.css.map",
+    "main.f0a62c24.js.map": "/Chess-Board-React/static/js/main.f0a62c24.js.map",
+    "453.aea98659.chunk.js.map": "/Chess-Board-React/static/js/453.aea98659.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc8e07b.css",
-    "static/js/main.dd224846.js"
+    "static/js/main.f0a62c24.js"
   ]
 }
